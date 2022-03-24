@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=292d3e&height=300&section=header&text=sangham's%20github&fontColor=ffffff&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=292d3e&height=240&section=header&text=sangham's%20github&fontColor=ffffff&fontSize=50&animation=twinkling)
  
 <!-- <h3 align="center"> 🌈 My SMS 🌈 </h3>
 <p align="center">
